@@ -12,9 +12,8 @@ The notebooks are divided into themes, where each theme has its own subfolder:
 
 Introduction to ACTRIS Jupyter Hub.ipynb
 
-Getting started with python.ipynb
-
 * **Search and access** 
+* **Analyse ACTRIS Data**
 * **Integrated products**  
 <br>
 
