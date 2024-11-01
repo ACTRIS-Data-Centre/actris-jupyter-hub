@@ -66,7 +66,7 @@ nbconvert==7.3.1
 nbformat==5.8.0
 nbgitpuller==1.1.1
 nest-asyncio==1.6.0
-netCDF4==1.5.7
+netCDF4==1.6.4
 notebook==6.5.6
 notebook_shim==0.2.2
 nteract-on-jupyter==2.1.3
