@@ -1,4 +1,4 @@
-<img src='https://www.actris.eu/sites/default/files/inline-images/Actris%20logo.png' width=300 align=right>
+<img src='https://data.actris.eu/static/img/actris-dc-logo.png' width=400 align=right>
 <br>
 <br> 
 
