@@ -1,15 +1,14 @@
-# Requirements 
-
-
-ipywidgets==8.1.8
-matplotlib==3.10.8
-netCDF4==1.7.4
-numpy==2.4.4
-pandas==3.0.2
-plotly==6.7.0
-pymannkendall==1.4.3
-requests==2.33.1
-threddsclient==0.4.7
-tqdm==4.67.3
-xarray==2026.2.0
-cartopy==0.21.0
+# Requirements for the ACTRIS Jupyter Hub environment. This file is used to specify the Python packages and their versions that are required for the Jupyter Hub environment to function properly. The packages listed here will be installed when setting up the environment.
+ipywidgets
+matplotlib
+netCDF4
+numpy
+pandas
+plotly
+pymannkendall
+requests
+threddsclient
+tqdm
+xarray
+cartopy
+basemap>=2.0.0; python_version < "3.14"
